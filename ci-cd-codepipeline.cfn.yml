@@ -38,7 +38,7 @@ Parameters:
     ConstraintDescription: You must enter a GitHub username or organization
   CodeBuildDockerImage:
     Type: String
-    Default: aws/codebuild/docker:17.09.9
+    Default: aws/codebuild/docker:17.09.0
     Description: AWS CodeBuild Docker optimized image
     MinLength: 3
     MaxLength: 100
