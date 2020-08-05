@@ -3,7 +3,7 @@ Tests for jwt flask app.
 '''
 import os
 import json
-import unittest test_main
+import unittest  
 
 import main
 
